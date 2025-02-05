@@ -1,3 +1,6 @@
+# e-commerce-ropa-urbana
+Este es un proyecto de E-Commerce de Ropa Urbana realizado con React.
+
 # E-Commerce de Ropa Urbana
 
 Este es un proyecto de **E-Commerce de Ropa Urbana** realizado con **React**. Actualmente, la aplicación muestra una vista de productos con opciones para agregarlos al carrito.
