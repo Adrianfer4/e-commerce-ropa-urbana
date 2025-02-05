@@ -15,13 +15,13 @@ Este es un proyecto de **E-Commerce de Ropa Urbana** realizado con **React**. Ac
 1. Clona el repositorio:
 
     ```bash
-    git clone https://github.com/TU_USUARIO/tu-repositorio.git
+    git clone https://github.com/Adrianfer4/e-commerce-ropa-urbana.git
     ```
 
 2. Entra en el directorio del proyecto:
 
     ```bash
-    cd tu-repositorio
+    cd e-commerce-ropa-urbana
     ```
 
 3. Instala las dependencias:
